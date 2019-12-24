@@ -1,7 +1,7 @@
 ;;;----------------------------------------------------------------------
 ;;; Multi-Dimensional Arrays
 ;;; FILE: multi-dim-arrays.scm
-;;; AUTHOR: Alfred J. Reich (http://www.io.com/~reich/)
+;;; AUTHOR: Alfred J. Reich
 ;;; VERSION: 1.0
 ;;; LANGUAGE: Scheme
 ;;; DESCRIPTION: A multi-dimensional array (MDA) is a vector of
