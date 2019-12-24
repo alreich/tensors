@@ -4,17 +4,11 @@
 ;;; AUTHOR: Alfred J. Reich
 ;;; VERSION: 1.0
 ;;; LANGUAGE: Scheme
+;;; LICENSE: MIT License
 ;;; DESCRIPTION: A multi-dimensional array (MDA) is a vector of
 ;;; vectors, of vectors, etc.  This code provides procedures for
 ;;; converting MDAs to and from lists, retrieving and setting
 ;;; individual MDA elements, and obtaining the dimensions of an MDA.
-;;; (I use MDAs to represent probability tables in Bayesian networks.)
-;;;----------------------------------------------------------------------
-;;; This software is provided as is, with no warranty, either express
-;;; or implied.  In no event shall the author be liable for
-;;; consequential or incidental damages of any nature whatsoever.  You
-;;; may copy this software, in whole or in part, and use it for any
-;;; lawful purpose.
 ;;;----------------------------------------------------------------------
 ;;; PROCEDURES:
 ;;; (array-dimensions array)		; ==> list of numbers
