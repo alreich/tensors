@@ -1,2 +1,2 @@
 # mda
-Multi-dimensional arrays
+Multi-dimensional arrays (also known as "tensors")
